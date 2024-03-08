@@ -1,4 +1,6 @@
 <template>
+  <HelloWorld/>
+  <NuxtWelcome/>
   <section>
     <h1>キャラクター名</h1>
     <Nami/>
